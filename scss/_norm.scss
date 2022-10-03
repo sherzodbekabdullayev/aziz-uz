@@ -1,0 +1,30 @@
+html{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    max-width: 1450px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+
+a, li{
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Comfortaa', sans-serif;
+    color: #263238;
+}
+p, button{
+    font-family: 'Comfortaa', sans-serif;
+    color: #8F95A5;
+}
+h1{
+    font-family: 'Comfortaa', sans-serif;
+}
+button{
+    cursor: pointer;
+    color: #263238;
+    transition: all .3s;
+    border: none;
+}
